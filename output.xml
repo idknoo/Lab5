@@ -1,0 +1,21 @@
+<Citys>
+    <item>
+        <id>0</id>
+        <name>name</name>
+        <coordinates>
+            <x>10.0</x>
+            <y>10.0</y>
+        </coordinates>
+        <creationDateTime>2021-09-08T23:58:21.956+03:00</creationDateTime>
+        <area>1.0</area>
+        <population>2</population>
+        <metersAboveSeaLevel>4.0</metersAboveSeaLevel>
+        <agglomeration>3</agglomeration>
+        <climate>RAIN_FOREST</climate>
+        <government>COMMUNISM</government>
+        <governor>
+            <age>13</age>
+            <birthday>2021-09-08</birthday>
+        </governor>
+    </item>
+</Citys>
